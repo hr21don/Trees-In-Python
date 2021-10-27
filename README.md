@@ -6,9 +6,9 @@ Creating a tree using the Node class.
  Insert data into the tree using the Insert method tree.Insert(root,x).
  
  An example input would look like 
-  tree.insert(root, 20)
-  tree.insert(root, 30)
-  tree.insert(root, 40)
+  tree.insert(root, 20),
+  tree.insert(root, 30),
+  tree.insert(root, 40).
  
 ## OutPut
 
