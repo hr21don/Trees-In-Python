@@ -17,26 +17,17 @@ Print all the nodes in the tree inorder or inreverse order using print methods a
 An example output would look like 
 
 Traverse Inorder, 
-10
 20
 30
-40
-50
-60 , 
+40, 
 Traverse PreOrder , 
-10
 20
 30
-40
-50
-60, 
+40, 
 Traverse PostOrder ,
-60
-50
 40
 30
 20
-10
 
 ### References
    Stackoverflow.com(2021).https://bit.ly/3EisSer. Date Accessed: 27/10/21
