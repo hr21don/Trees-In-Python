@@ -5,6 +5,11 @@ Creating a tree using the Node class.
  
  Insert data into the tree using the Insert method tree.Insert(root,x).
  
+ An example input would look like 
+  tree.insert(root, 20)
+  tree.insert(root, 30)
+  tree.insert(root, 40)
+ 
 ## OutPut
 
 Print all the nodes in the tree inorder or inreverse order using print methods as follows  print("Traverse Inorder") ,   print("Traverse Preorder") and   print("Traverse Postorder"). 
