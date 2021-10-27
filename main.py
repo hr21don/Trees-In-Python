@@ -99,7 +99,6 @@ def main():
     root = None
     tree = Tree()
     root = tree.insert(root, 10)
-    print(root)
     tree.insert(root, 20)
     tree.insert(root, 30)
     tree.insert(root, 40)
