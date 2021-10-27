@@ -11,21 +11,21 @@ Print all the nodes in the tree inorder or inreverse order using print methods a
 
 An example output would look like 
 
-Traverse Inorder
+Traverse Inorder, 
 10
 20
 30
 40
 50
-60
-Traverse PreOrder
+60 , 
+Traverse PreOrder , 
 10
 20
 30
 40
 50
-60
-Traverse PostOrder
+60, 
+Traverse PostOrder ,
 60
 50
 40
