@@ -12,7 +12,7 @@ Creating a tree using the Node class.
  
 ## OutPut
 
-Print all the nodes in the tree inorder or inreverse order using print methods as follows  print("Traverse Inorder") ,   print("Traverse Preorder") and   print("Traverse Postorder"). 
+Print all the nodes in the tree inorder or inreverse order using the provided print methods print("Traverse Inorder") ,   print("Traverse Preorder") and   print("Traverse Postorder"). 
 
 An example output would look like 
 
